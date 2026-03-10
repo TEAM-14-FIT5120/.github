@@ -125,11 +125,11 @@ Viral tanning trends on TikTok and Instagram are reversing decades of sun-safety
 ## 🔗 Project Links
 
 <p align="center">
-  <a href="#">
+  <a href="https://monashie.leankit.com/board/2426783589">
     <img src="https://img.shields.io/badge/🗂️%20LeanKit%20Board-INSERT%20LINK-E8670A?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="#">
+  <a href="https://drive.google.com/drive/folders/1iMn6wC8x3k92GaR9rmj3ns_La-xOvm0r">
     <img src="https://img.shields.io/badge/📁%20PGP%20Folder-INSERT%20LINK-003087?style=for-the-badge" />
   </a>
   &nbsp;
