@@ -1,10 +1,7 @@
 <!-- ANIMATED HEADER BANNER -->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=UVSense&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=☀️%20Sun%20Safety%20Awareness%20Platform&descAlignY=60&descSize=22)
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E8670A&center=true&vCenter=true&width=750&lines=Making+sun+safety+cool+for+Gen+Z+Australians+☀️;Real-time+UV+alerts+in+human+language+📱;Personalised+protection+for+every+skin+type+🧬;Visual+data+that+drives+behaviour+change+📊;Built+by+Team+UVSense+·+Monash+FIT5120+🎓" alt="Typing SVG" />
-</p>
+
 
 <br/>
 
@@ -82,6 +79,11 @@ Viral tanning trends on TikTok and Instagram are reversing decades of sun-safety
 <table align="center">
   <tr>
     <td align="center">
+      <b>Suryansh Sharma</b><br/>
+      <sub>Master of Artificial<br/>Intelligence</sub><br/>
+      <img src="https://img.shields.io/badge/-ssha0314-grey?style=flat-square&logo=gmail&logoColor=white" />
+    </td>
+    <td align="center">
       <b>Yiyi Huang</b><br/>
       <sub>Master of Business<br/>Information Systems</sub><br/>
       <img src="https://img.shields.io/badge/-yhua0299-grey?style=flat-square&logo=gmail&logoColor=white" />
@@ -95,11 +97,6 @@ Viral tanning trends on TikTok and Instagram are reversing decades of sun-safety
       <b>Sruti Dutt</b><br/>
       <sub>Master of<br/>Data Science</sub><br/>
       <img src="https://img.shields.io/badge/-sdut0019-grey?style=flat-square&logo=gmail&logoColor=white" />
-    </td>
-    <td align="center">
-      <b>Suryansh Sharma</b><br/>
-      <sub>Master of Artificial<br/>Intelligence</sub><br/>
-      <img src="https://img.shields.io/badge/-ssha0314-grey?style=flat-square&logo=gmail&logoColor=white" />
     </td>
     <td align="center">
       <b>Yaqi Wang</b><br/>
